@@ -1,0 +1,13 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+
+
+# images                            label
+# images/angry/open.png             angry
+# images/disgusted/open.png         disgusted
