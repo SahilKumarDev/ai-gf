@@ -1,6 +1,9 @@
 {
   "cSpell.words": [
-    "opencv"
+    "keras",
+    "numpy",
+    "opencv",
+    "tqdm"
   ],
   "editor.indentSize": "tabSize"
 }
